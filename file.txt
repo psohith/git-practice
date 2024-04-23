@@ -2,4 +2,5 @@ this is a first text file
 second line added to make some changes to the file
 third line added to directly commit the file into the local repository with out shifting to staging area
 fouth commit
+ck
 git diff
